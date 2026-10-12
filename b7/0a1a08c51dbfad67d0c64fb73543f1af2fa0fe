@@ -1,0 +1,14 @@
+crates/ui-egui/src/state.rs
+  h_506f942d5cc8e8 272
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b70a1a08c51dbfad67d0c64fb73543f1af2fa0fe",
+  "prompts": {},
+  "humans": {
+    "h_506f942d5cc8e8": {
+      "author": "ashp8 <ashishira521@gmail.com>"
+    }
+  }
+}
